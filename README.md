@@ -29,6 +29,11 @@ Cette plateforme permet de gérer efficacement :
 
 ## 🖼️ Captures d'écran
 
+### 🔐 LOGIN PAGE
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-20-41" src="https://github.com/user-attachments/assets/e647fedf-2daf-4884-87fb-405ed33e363d" />
+
+---
+
 ### 🔐 Interface Administrateur
 
 <img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-21" src="https://github.com/user-attachments/assets/5102974a-1f6f-4111-adae-01419ec314eb" />
@@ -135,7 +140,7 @@ PFEHub/
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-username/PFEHub.git
+https://github.com/CyPheer1/JEE-APP.git
 cd PFEHub
 ```
 
