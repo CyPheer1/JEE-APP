@@ -31,7 +31,17 @@ Cette plateforme permet de gérer efficacement :
 
 ### 🔐 Interface Administrateur
 
-#### Vue d'ensemble du Dashboard
+#### Vue d'ensemble du Dashboard<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-21" src="https://github.com/user-attachments/assets/5102974a-1f6f-4111-adae-01419ec314eb" />
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-27" src="https://github.com/user-attachments/assets/2c687a35-85cb-4c60-a066-080d15119b70" />
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-32" src="https://github.com/user-attachments/assets/8ffb8d2b-28ab-4816-af45-4ffbcb40d9db" />
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-42" src="https://github.com/user-attachments/assets/4ec33d79-e30b-4313-8788-9f3063c2b23b" />
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-24-29" src="https://github.com/user-attachments/assets/54bbc6f3-4003-428a-8a76-b478d0f70c6b" />
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-24-36" src="https://github.com/user-attachments/assets/655bfc81-8b42-4a97-ae72-3ecf8c604748" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-25-13" src="https://github.com/user-attachments/assets/cd938a12-6e67-422b-a6a5-df2a65a59e76" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-25-21" src="https://github.com/user-attachments/assets/f69a34a0-ab93-4852-bf52-f9b8b003d5fc" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-25-26" src="https://github.com/user-attachments/assets/f1f9383a-b8e7-4378-9a6a-e5109f4d5cce" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-25-35" src="https://github.com/user-attachments/assets/f5e6f605-42d5-4a1b-968e-0d6da5fa09d2" />
+
 ![Dashboard Admin](./screenshots/admin-dashboard.png)
 *Statistiques globales : étudiants, encadrants, PFEs actifs et soutenances*
 
