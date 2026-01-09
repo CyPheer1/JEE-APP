@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Projet réalisé dans le cadre du module JEE (Java Enterprise Edition)</strong><br>
+  <strong>Projet réalisé dans le cadre du module JEE </strong><br>
   <em>École Nationale Supérieure d'Arts et Métiers - ENSAM Casablanca</em>
 </p>
 
@@ -31,7 +31,7 @@ Cette plateforme permet de gérer efficacement :
 
 ### 🔐 Interface Administrateur
 
-#### Vue d'ensemble du Dashboard<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-21" src="https://github.com/user-attachments/assets/5102974a-1f6f-4111-adae-01419ec314eb" />
+<img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-21" src="https://github.com/user-attachments/assets/5102974a-1f6f-4111-adae-01419ec314eb" />
 <img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-27" src="https://github.com/user-attachments/assets/2c687a35-85cb-4c60-a066-080d15119b70" />
 <img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-32" src="https://github.com/user-attachments/assets/8ffb8d2b-28ab-4816-af45-4ffbcb40d9db" />
 <img width="1920" height="921" alt="Screenshot from 2026-01-09 12-22-42" src="https://github.com/user-attachments/assets/4ec33d79-e30b-4313-8788-9f3063c2b23b" />
@@ -42,96 +42,36 @@ Cette plateforme permet de gérer efficacement :
 <img width="1920" height="922" alt="Screenshot from 2026-01-09 12-25-26" src="https://github.com/user-attachments/assets/f1f9383a-b8e7-4378-9a6a-e5109f4d5cce" />
 <img width="1920" height="922" alt="Screenshot from 2026-01-09 12-25-35" src="https://github.com/user-attachments/assets/f5e6f605-42d5-4a1b-968e-0d6da5fa09d2" />
 
-![Dashboard Admin](./screenshots/admin-dashboard.png)
-*Statistiques globales : étudiants, encadrants, PFEs actifs et soutenances*
 
-#### Gestion de la Structure Académique
-![Structure](./screenshots/admin-structure.png)
-*Gestion des départements (IAGI, GIM, GMM, GEE) et spécialisations*
-
-#### Configuration de l'Année Académique
-![Année Académique](./screenshots/admin-academic-year.png)
-*Définition des périodes de soumission et de soutenances*
-
-#### Gestion des Assignations
-![Assignations](./screenshots/admin-assignments.png)
-*Recommandations intelligentes d'encadrants avec pourcentage de match*
-
-#### Validation des Soutenances
-![Soutenances](./screenshots/admin-defenses.png)
-*Propositions de soutenances, calendrier et composition du jury*
-
-#### Rapports d'Évaluation
-![Évaluations](./screenshots/admin-evaluations.png)
-*Consultation des notes et rapports détaillés des soutenances*
 
 ---
 
 ### 👨‍🏫 Interface Professeur/Encadrant
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-26-25" src="https://github.com/user-attachments/assets/18b8a7d7-fa60-471f-b7ae-08578b5144bf" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-27-22" src="https://github.com/user-attachments/assets/e4ccc2b0-a786-4a26-90ca-36df6fe7c7d4" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-27-27" src="https://github.com/user-attachments/assets/b74c3cc3-1631-4fab-a1fb-264852c6f509" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-27-35" src="https://github.com/user-attachments/assets/2254617d-4931-43ba-ba41-df6ba67ea07d" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-27-44" src="https://github.com/user-attachments/assets/7f6d18a3-751b-48b2-a353-bae58e573d70" />
 
-#### Dashboard et Statistiques
-![Prof Dashboard](./screenshots/prof-dashboard.png)
-*Vue d'ensemble : projets supervisés (3), actifs (2), en révision (1), note moyenne (16.2/20)*
-
-#### Gestion des Projets Assignés
-![Prof Projets](./screenshots/prof-projects.png)
-*Liste des projets avec progression, livrables, actions (Accepter/Refuser/Voir détails)*
-
-#### Gestion des Soutenances
-![Prof Soutenances](./screenshots/prof-soutenances.png)
-*Proposition de dates, composition du jury, validation par l'administration*
-
-#### Évaluation des Soutenances
-![Prof Evaluation](./screenshots/prof-evaluation.png)
-*Formulaire d'évaluation : qualité présentation, maîtrise du sujet, réponses aux questions, respect du temps, note finale*
 
 ---
 
 ### 👨‍🎓 Interface Étudiant
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-29-15" src="https://github.com/user-attachments/assets/a38ae6dc-fe0a-47d8-9d69-df0df1805943" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-29-24" src="https://github.com/user-attachments/assets/c33d8138-3fe1-443a-b0c9-b8b372a98f44" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-29-35" src="https://github.com/user-attachments/assets/6048676a-a959-49ba-aabb-783c0460a878" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-29-49" src="https://github.com/user-attachments/assets/123fc6b2-79b2-47f4-a074-964b62fe4fce" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-30-12" src="https://github.com/user-attachments/assets/2418930d-f6ed-4e89-a7ff-5cfb9e020daa" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-30-56" src="https://github.com/user-attachments/assets/ea2afca4-2a2e-4ff4-9711-2c6b3feedbbf" />
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-31-12" src="https://github.com/user-attachments/assets/bd2cf83d-a970-43c4-a138-519598a7371a" />
 
-#### Dashboard et Vue d'ensemble du Projet
-![Student Dashboard](./screenshots/student-dashboard.png)
-*Projet "Système de recommandation intelligent basé sur l'IA" - Statut Accepté, progression 65%*
-
-#### Détails du Projet
-![Student Details](./screenshots/student-details.png)
-*Description, objectifs, méthodologie et résultats attendus du PFE*
-
-#### Gestion des Livrables
-![Student Livrables](./screenshots/student-livrables.png)
-*Liste des livrables soumis : Cahier des charges, Rapports d'avancement, Code source*
-
-#### Soumission de Livrable
-![Student Submit](./screenshots/student-submit-livrable.png)
-*Formulaire d'upload : titre, type, description, fichier (PDF, ZIP, DOCX - Max 10MB)*
-
-#### Soumission Finale du Projet
-![Student Final](./screenshots/student-final-submission.png)
-*Soumission définitive du rapport final (PDF - Max 50MB)*
-
-#### Informations sur la Soutenance
-![Student Soutenance](./screenshots/student-soutenance.png)
-*Date, heure, salle, composition du jury et rappels importants*
-
-#### Rapport d'Évaluation
-![Student Evaluation](./screenshots/student-evaluation.png)
-*Note finale 17.5/20 avec détail des critères : présentation (18), maîtrise (17), questions (16), temps (19)*
-
-#### Profil Étudiant
-![Student Profile](./screenshots/student-profile.png)
-*Informations personnelles : département IAGI, spécialisation Systèmes d'Information, encadrant assigné*
 
 ---
 
 ### 🗄️ Base de Données H2
+<img width="1920" height="922" alt="Screenshot from 2026-01-09 12-52-47" src="https://github.com/user-attachments/assets/9fcca638-9624-4a46-9f71-5d1ba72e3269" />
 
-#### Console H2 - Tables de la Base de Données
-![H2 Console](./screenshots/h2-database.png)
-*Structure de la base de données avec tables : ADMINS, APP_USERS, DEPARTEMENTS, ENCADRANTS, ETUDIANTS, PFES, SOUTENANCES, SPECIALITES, etc.*
 
-#### Table ETUDIANTS
-![H2 Etudiants](./screenshots/h2-etudiants.png)
-*8 étudiants enregistrés avec numéro étudiant (ENSAM2025XXX), promotion 2025, année universitaire*
 
 ---
 
@@ -375,21 +315,11 @@ PUT  /api/soutenances/{id}/validate  # Valider
 
 ---
 
-## 🚀 Améliorations Futures
-
-- [ ] Notification par email
-- [ ] Export PDF des rapports
-- [ ] Système de messagerie interne
-- [ ] Intégration calendrier Google
-- [ ] Application mobile
-
----
-
 ## 👨‍💻 Auteur
 
 **Mohamed El Ouardi**
 - 🎓 Étudiant en 2ème année cycle ingénieur
-- 🏫 ENSAM Casablanca - Département IAGI
+- 🏫 ENSAM Casablanca -  IAGI
 
 ---
 
@@ -403,7 +333,7 @@ Ce projet est réalisé dans un cadre académique pour le module **JEE (Java Ent
 
 - **ENSAM Casablanca** - École Nationale Supérieure d'Arts et Métiers
 - **Département IAGI** - Ingénierie en Automatique et Génie Informatique
-- Professeurs encadrants du module JEE
+- Professeurs encadrants du module JEE(BADR HIRCHOUA)
 
 ---
 
