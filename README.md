@@ -17,7 +17,7 @@
 
 ## 📋 Description
 
-**PFEHub** est une application web complète de gestion des Projets JEE,  développée pour faciliter le processus de soumission, d'encadrement et de soutenance des projets académiques.
+**PFEHub** est une application web complète de gestion des Projets PFE,  développée pour faciliter le processus de soumission, d'encadrement et de soutenance des projets académiques.
 
 Cette plateforme permet de gérer efficacement :
 - 📝 La soumission des sujets de PFE par les étudiants
