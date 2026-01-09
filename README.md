@@ -320,9 +320,11 @@ PUT  /api/soutenances/{id}/validate  # Valider
 
 ---
 
-## 👨‍💻 Auteur
+## 👨‍💻 Auteurs
 
 **Mohamed El Ouardi**
+**Bouchoua Youssef**
+
 - 🎓 Étudiant en 2ème année cycle ingénieur
 - 🏫 ENSAM Casablanca -  IAGI
 
