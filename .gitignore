@@ -1,0 +1,47 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Dependencies
+node_modules/
+PFEHub/node_modules/
+
+# Build outputs
+PFEHub/build/
+PFEHub/dist/
+pfehub/target/
+
+# Database files
+pfehub/data/*.db
+*.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Vite cache
+PFEHub/.vite/
+
+# Maven wrapper (optional - you can keep it)
+# pfehub/.mvn/
+
+# Uploads folder content (keep folder structure)
+pfehub/uploads/*
+!pfehub/uploads/.gitkeep
+PFEHub_frontend/build/
+.idea/
