@@ -323,7 +323,7 @@ PUT  /api/soutenances/{id}/validate  # Valider
 ## 👨‍💻 Auteurs
 
 **Mohamed El Ouardi**
-**Bouchoua Youssef**
+
 
 - 🎓 Étudiant en 2ème année cycle ingénieur
 - 🏫 ENSAM Casablanca -  IAGI
@@ -339,9 +339,7 @@ Ce projet est réalisé dans un cadre académique pour le module **JEE (Java Ent
 ## 🙏 Remerciements
 
 - **ENSAM Casablanca** - École Nationale Supérieure d'Arts et Métiers
-- **Département IAGI** - Ingénierie en Automatique et Génie Informatique
-- Professeurs encadrants du module JEE(BADR HIRCHOUA)
-
+- **Département IAGI** 
 ---
 
 <p align="center">
